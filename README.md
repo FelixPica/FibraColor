@@ -1,1 +1,1 @@
-# FibarColor v2.2.1
+# FibarColor v2.3.0
