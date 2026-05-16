@@ -1,1 +1,1 @@
-# FibraColor v2.5.8
+# FibraColor v2.6.2
